@@ -1,2 +1,2 @@
-# dTorrent
-DzerjiTorrent torrent client in Rust
+# PuTorrent
+DzerjiFile torrent client in Rust and Electron based framework Tauri
